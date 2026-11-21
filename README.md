@@ -48,7 +48,7 @@ Core Technologies:
   - Microsoft Azure
   - Kusto Query Language (KQL)
   - Python
-  - Java
+  - Java & JavaScript 
 
 Status: Building practical cybersecurity labs and portfolio projects
 ```
