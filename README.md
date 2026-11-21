@@ -14,15 +14,15 @@ CyberSsecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detect
 ---
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-70F080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
-
-<img src="https://img.shields.io/badge/AZURE_SECURITY-4472C4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Security">
-
-<img src="https://img.shields.io/badge/THREAT_DETECTION-DC2436?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Threat Detection">
-
-<img src="https://img.shields.io/badge/CLOUD_SECURITY-68B9F7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security">
-
+  <img src="https://img.shields.io/badge/CYBERSECURITY-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-3563E9?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREAT_DETECTION-C0392B?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLOUD-5DADE2?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-D35400?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
