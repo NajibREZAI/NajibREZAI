@@ -26,30 +26,6 @@ Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud & AI
 
 ---
 
-
-
-
-<h1 align="center">Najib REZAI</h1>
-
-<p align="center">
-  <b>Cybersecurity Analyst | SOC Operations | Threat Detection | Azure Security | Python | Java | AI</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/AZURE_SECURITY-3563E9?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Security" />
-  <img src="https://img.shields.io/badge/THREAT_DETECTION-C0392B?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Detection" />
-  <img src="https://img.shields.io/badge/CLOUD_SECURITY-5DADE2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVA-D35400?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-</p>
-
----
-
 # WHOAMI
 
 ```yaml
