@@ -99,7 +99,7 @@ defensive security skills.
 
 ---
 
-## / CYBERSECURITY PROJECTS
+## CYBERSECURITY PROJECTS
 
 ### 01 | Security Operations Centre Portfolio
 
@@ -132,7 +132,7 @@ incident response, and security investigations.
 
 ---
 
-## / CURRENT FOCUS
+# CURRENT FOCUS
 
 - Improving SOC investigation skills
 - Developing KQL threat detection queries
