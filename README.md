@@ -24,7 +24,7 @@ Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detecti
 
 ---
 
-# WHOAMI
+# WHO AM I:
 
 ```yaml
 Name: Najib Rezai
@@ -55,7 +55,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# TECH STACK
+# TECH STACK:
 
 <p align="center">
   <h3 align="center">Operating Systems</h3>
@@ -81,7 +81,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# SECURITY DOMAINS
+# SECURITY DOMAINS:
 
 <table>
   <tr>
@@ -112,7 +112,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# FEATURED PROJECTS
+# FEATURED PROJECTS:
 
 | Project | Stack | Description |
 |--------|--------|--------|
@@ -125,7 +125,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# TOOLKIT
+# TOOLKIT:
 
 <p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -139,7 +139,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# CURRENT OBJECTIVES
+# CURRENT OBJECTIVES:
 
 ```diff
 + Strengthening SOC investigation and triage capabilities
@@ -151,7 +151,7 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
-# CONNECT
+# CONNECT:
 
 <p align="center">
   <a href="https://github.com/NajibREZAI">
