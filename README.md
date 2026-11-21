@@ -55,6 +55,16 @@ Status: Building practical cybersecurity labs and portfolio projects
 
 ---
 
+# Cybersecurity Portfolio:
+ Discover my hands-on cybersecurity projects, showcasing practical experience in Security Operations (SOC), Microsoft Sentinel, Defender XDR, threat detection, incident response, and KQL-based security investigations.
+
+My portfolio highlights my passion for identifying threats, strengthening security defences, and applying real-world cybersecurity skills.
+
+<a href="https://github.com/NajibREZAI/Cybersecurity-SOC-Portfolio">
+  <img src="https://img.shields.io/badge/VIEW_MY_CYBERSECURITY_PORTFOLIO-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio">
+</a>
+
+--- 
 # TECH STACK:
 
 <p align="center">
