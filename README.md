@@ -1,3 +1,34 @@
+
+<div align="center">
+
+# NAJIB REZAI
+
+```bash
+Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud & AI
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=85&lines=Cybersecurity+Analyst;SOC+Operations+Specialist;Azure+Security+Enthusiast;Threat+Detection+%26+Incident+Response;Python+%26+Java+Developer;Artificial+Intelligence+%26+Machine+Learning" alt="Animated professional titles" />
+
+---
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/AZURE_SECURITY-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/THREAT_DETECTION-FF0033?style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-00C3FF?style=for-the-badge&logo=icloud&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B2CBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+</div>
+
+---
+
+
+
+
 <h1 align="center">Najib REZAI</h1>
 
 <p align="center">
