@@ -9,10 +9,10 @@ Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detecti
 
 ---
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/AZURE_SECURITY-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/THREAT_DETECTION-000000?style=for-the-badge&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/CLOUD_SECURITY-000000?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/AZURE_SECURITY-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/THREAT_DETECTION-FF0033?style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-00C3FF?style=for-the-badge&logo=icloud&logoColor=white" />
 
 <br>
 
