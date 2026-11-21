@@ -27,7 +27,7 @@ CyberSsecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detect
 
 ---
 
-##  / Who Am I:
+##   Who Am I:
 
 ```yaml
 Name: Najib Rezai
