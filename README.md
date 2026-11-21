@@ -4,10 +4,9 @@
 ---
 
 ```text
-CyberSsecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security
+Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security
 ```
 
-<br>
 <br>
 <br>
 
