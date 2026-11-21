@@ -4,10 +4,8 @@
 # NAJIB REZAI
 
 ```bash
-Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud & AI
+Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud & AI | Machine learning knowledge
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=85&lines=Cybersecurity+Analyst;SOC+Operations+Specialist;Azure+Security+Enthusiast;Threat+Detection+%26+Incident+Response;Python+%26+Java+Developer;Artificial+Intelligence+%26+Machine+Learning" alt="Animated professional titles" />
 
 ---
 
