@@ -27,7 +27,7 @@ CyberSsecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detect
 
 ---
 
-##   Who Am I:
+#   Who Am I:
 
 ```yaml
 Name: Najib Rezai
@@ -57,7 +57,7 @@ Status: Building secure systems & practical SOC labs
 
 ---
 
-## / ABOUT ME
+# ABOUT ME
 
 I'm Najib, an experienced cybersecurity professional and
 Master of Computer Science student based in Australia.
@@ -77,7 +77,7 @@ defensive security skills.
 
 ---
 
-## / TECHNICAL ARSENAL
+# TECHNICAL ARSENAL
 
 ### Security Monitoring & SIEM
 
