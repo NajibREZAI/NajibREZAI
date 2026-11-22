@@ -190,7 +190,7 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 
 ### 🌍 Global Live Cyber Threat Monitor
 
-[![Enter Live Attack Map](https://img.shields.io/badge/🔴_ENTER_LIVE_ATTACK_MAP-16865c?style=for-the-badge)](https://https://www.threat.live/map//)
+[![Enter Live Attack Map](https://img.shields.io/badge/🔴_ENTER_LIVE_ATTACK_MAP-16865c?style=for-the-badge)](https://www.threat.live/map/)
 
 
 
