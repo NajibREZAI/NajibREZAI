@@ -146,21 +146,6 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 | 🛡️ Detection Queries | KQL | Threat hunting and detection queries for cloud and endpoint logs |
 
 ---
-
-# TOOLKIT:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/BURP_SUITE-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NMAP-2C4F7C?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIRESHARK-3C78A9?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPLUNK-111111?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/WAZUH-0266C8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
----
-
 # CURRENT OBJECTIVES:
 
 ```diff
