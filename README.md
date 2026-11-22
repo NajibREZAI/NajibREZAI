@@ -65,7 +65,7 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 </a>
 
 --- 
-# 💼 Stack — Cybersecurity Tooling
+# Stack — Cybersecurity Tooling
 
 ### SIEM / XDR / EDR
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-2563EB?style=flat-square&logo=microsoftazure&logoColor=white)
