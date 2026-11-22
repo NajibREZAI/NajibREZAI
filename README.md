@@ -186,7 +186,7 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 </p>
 
 
-# Current Live Attack: 
+# CURRENT LIVE ATTACK MAP:
 
 ### 🌍 Global Live Cyber Threat Monitor
 
