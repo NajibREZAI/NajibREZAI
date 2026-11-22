@@ -188,16 +188,13 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 
 # Current Live Attack: 
 
-<iframe
-  src="https://cybermap.kaspersky.com/en/widget/dynamic/dark"
-  width="100%"
-  height="750"
-  style="border:0;"
-  title="Kaspersky Live Cyberthreat Map"
-  allowfullscreen>
-</iframe>
 
-<p>
-  Live threat visualisation powered by Kaspersky.
-</p>
+### 🌍 Global Live Cyber Threat Monitor
+
+[![Live Cyber Threat Map](https://img.shields.io/badge/🔴_VIEW_LIVE_CYBER_ATTACK_MAP-16A34A?style=for-the-badge)](https://najibrezai.github.io/NajibREZAI/)
+
+**Live Threat Intelligence:** Kaspersky Cyberthreat Map
+
+*Click above to open the interactive live environment.*
+
 
