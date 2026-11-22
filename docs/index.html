@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+  <title>Live Cyber Threat Map | Najib Rezai</title>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: #080d16;
+      color: #edf3ff;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      padding: 22px;
+      background: #101c2e;
+      border-bottom: 1px solid #30415e;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    h1 { margin: 0; font-size: 26px; }
+
+    p { color: #aabed9; }
+
+    .button {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #166a50;
+      color: white;
+      text-decoration: none;
+      border-radius: 7px;
+      font-weight: bold;
+    }
+
+    .viewer {
+      height: 78vh;
+      min-height: 450px;
+      background: #090e17;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    footer {
+      padding: 17px;
+      text-align: center;
+      font-size: 13px;
+      color: #aabed9;
+    }
+
+    footer a { color: #8cbcff; }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div>
+      <h1>🌐 GLOBAL CYBER THREAT MONITOR</h1>
+      <p>Najib Rezai | Cybersecurity & SOC Portfolio</p>
+      <p>Third-party live feed: Threat.live</p>
+    </div>
+
+    <a class="button"
+       href="https://www.threat.live/map/"
+       target="_blank"
+       rel="noopener noreferrer">
+       OPEN LIVE THREAT MAP ↗
+    </a>
+  </header>
+
+  <main class="viewer">
+    <iframe
+      src="https://www.threat.live/map/"
+      title="Threat.live Cyber Attack Map">
+    </iframe>
+  </main>
+
+  <footer>
+    If the embedded map is blocked,
+    <a href="https://www.threat.live/map/"
+       target="_blank"
+       rel="noopener noreferrer">
+       open the original live map here
+    </a>.
+    <p>
+      External threat visualisation.
+      Not telemetry from my own SOC environment.
+    </p>
+  </footer>
+
+</body>
+</html>
