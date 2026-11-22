@@ -65,29 +65,41 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 </a>
 
 --- 
-# TECH STACK:
+# 💼 Stack — Cybersecurity Tooling
 
-<p align="center">
-  <h3 align="center">Operating Systems</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows" />
-  </p>
+### SIEM / XDR / EDR
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-2563EB?style=flat-square&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-222222?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1684CF?style=flat-square)
+![Defender for Endpoint](https://img.shields.io/badge/Defender%20for%20Endpoint-145DA0?style=flat-square)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-C62828?style=flat-square)
 
-  <h3 align="center">Cloud & Infrastructure</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes" />
-  </p>
+### Identity & Cloud Security
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-2876D0?style=flat-square&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-354F9C?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-B74732?style=flat-square)
+![Conditional Access](https://img.shields.io/badge/Conditional%20Access-2563EB?style=flat-square)
 
-  <h3 align="center">Development</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,powershell,js,react,nodejs" />
-  </p>
+### Threat Detection & Frameworks
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-B43A3A?style=flat-square)
+![KQL](https://img.shields.io/badge/KQL-2262B5?style=flat-square)
+![Log Analytics](https://img.shields.io/badge/Log%20Analytics-3D619E?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-275C72?style=flat-square)
 
-  <h3 align="center">Database & Tools</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-  </p>
-</p>
+### Network & Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1971B6?style=flat-square&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B5563?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-36708C?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-2675C4?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-343642?style=flat-square&logo=linux&logoColor=white)
+
+### Scripting & Platforms
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-3163A7?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C94D35?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-292D38?style=flat-square&logo=github&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-34795B?style=flat-square)
+  
 
 ---
 
