@@ -184,3 +184,7 @@ My portfolio highlights my passion for identifying threats, strengthening securi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NajibREZAI&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
+
+
+# Current Live Attack: 
+
