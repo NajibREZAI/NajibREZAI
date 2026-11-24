@@ -1,26 +1,26 @@
+<h1 align="center">NAJIB REZAI</h1>
 
-<div align="center">
+<p align="center">
+  <strong>
+    Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security | AI & Machine Learning
+  </strong>
+</p>
 
-# NAJIB REZAI
 
-```bash
-Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud & AI | Machine learning knowledge
-```
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/AZURE_SECURITY-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/THREAT_DETECTION-FF0033?style=for-the-badge&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/CLOUD_SECURITY-00C3FF?style=for-the-badge&logo=icloud&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge"/>
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B2CBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-
-</div>
 
 ---
 
