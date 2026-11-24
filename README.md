@@ -9,7 +9,6 @@
 </p>
 
 <br/><br/>
-<div>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Cybersecurity&color=000000&style=for-the-badge" alt="Cybersecurity"/>
@@ -28,7 +27,10 @@
   <img src="https://img.shields.io/static/v1?label=&message=Artificial%20Intelligence&color=6E40C9&style=for-the-badge" alt="Artificial Intelligence"/>
 </p>
 
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge" height="22"/><img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge" height="22"/><img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" height="22"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="22"/><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge" height="22"/><img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge" height="22"/><img src="https://img.shields.io/badge/Artificial_Intelligence-6F42C1?style=for-the-badge" height="22"/>
+</p>
 
 
 
