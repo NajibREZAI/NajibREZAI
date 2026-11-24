@@ -1,7 +1,6 @@
 <h1 align="center">NAJIB REZAI<br/></h1> 
 
-
-<br/><br/>
+<br/>
 
 <p align="center">
   <strong>
@@ -9,7 +8,7 @@
   </strong>
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge" height="22"/>
