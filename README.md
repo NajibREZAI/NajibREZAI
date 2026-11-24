@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security | AI & Machine Learning
+    Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security | Incident Responder
   </strong>
 </p>
 
