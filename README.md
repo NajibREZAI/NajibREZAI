@@ -1,5 +1,7 @@
 <h1 align="center">NAJIB REZAI</h1>
 
+<br>
+
 <p align="center">
   <strong>
     Cybersecurity Engineer | Cybersecurity Analyst | SOC Operations | Threat Detection | Cloud Security | AI & Machine Learning
