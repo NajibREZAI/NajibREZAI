@@ -30,7 +30,7 @@
 ```yaml
 Name: Najib Rezai
 Location: Australia
-Education: Master of Computer Science
+Education: N/A
 
 Specialization:
   - Cybersecurity
